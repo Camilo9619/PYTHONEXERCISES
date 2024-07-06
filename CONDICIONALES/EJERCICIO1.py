@@ -4,5 +4,4 @@ def par():
         print("Par")
     else:
         print("Impar")
-
 par()
